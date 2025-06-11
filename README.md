@@ -54,7 +54,9 @@ CemID: Deep Learning-Powered Real-Time Cement Bag Number Detection is a sophisti
 ## Output
 - Example of the model in action:
 
-https://github.com/JaynilVaidya/CemID-Cement-Bag-Number-Detection-with-Deep-Learning/assets/48921037/output/SubmissionVideo.mp4
+
+https://github.com/user-attachments/assets/fd4402af-5272-4d2f-ba4d-3998decd535e
+
 
 ## Skills Demonstrated
 - **Computer Vision**: Implemented using OpenCV for video processing and image manipulation.
